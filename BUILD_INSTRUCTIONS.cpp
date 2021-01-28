@@ -3,8 +3,8 @@
 int main()
 {
     // Starter info
-    std::cout << "Build instructions for GitHub/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Farmtopia\n";
-    std::cout << "This repository is an archive of all versions of my Minecraft PE world: Farmtopia\n";
+    std::cout << "Build instructions for GitHub/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Windows95MC\n";
+    std::cout << "This repository is an archive of all versions of my Minecraft PE world: Windows95MC\n";
     std::cout << "Before you can use these worlds, please make sure of the following things:\n";
     // Requirements
     std::cout << "* That your storage location for Minecraft is set to `external`";
@@ -14,9 +14,14 @@ int main()
     // Start
     std::cout << "This is a backup of all the versions of the world, according to my journaling structure.";
     std::cout << "The worlds are sorted by a monthly ID, starting at 1,July 2019, 2,August 2019, etc... up to 21,March 2021";
-    std::cout << "To start using the world, locate your device storage and go to: games/com.mojang/MinecraftWorlds/ then cut/copy and paste the directory containing the world code 3hUlXT74VQA into this folder (you can also use the zip file and extract it) you do not need to remove extra files before running the game, just make sure not to do this while the game is running";
-    std::cout << "Please also make sure that there is not already another world in your MinecraftWorlds folder labeled Farmtopia.";
+    std::cout << "To start using the world, locate your device storage and go to: games/com.mojang/MinecraftWorlds/ then cut/copy and paste the directory containing the world code FdAKYKc6AAA= into this folder (you can also use the zip file and extract it) you do not need to remove extra files before running the game, just make sure not to do this while the game is running";
+    std::cout << "Please also make sure that there is not already another world in your MinecraftWorlds folder labeled Windows95MC.";
     // Outro
     std::cout << "Once installed, you will have a copy of the entire world. You can now change any setting you want, and do whatever you want to the world. If things go wrong, just delete it, and replace the backup";
 }
 // End of script
+/* File info
+File version: 2 (Wednesday, January 27th 2021 at 5:18 pm)
+File type: C++ Source file (*.cpp)
+Line count (including blank lines and compiler line): 28
+*/
